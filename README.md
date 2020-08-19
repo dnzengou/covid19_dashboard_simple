@@ -1,1 +1,0 @@
-# covid19_dashboard_simple
