@@ -3,5 +3,6 @@
 
 ## Notebook
 Check binder [link](https://mybinder.org/v2/gh/dnzengou/covid19_dashboard_simple/master)
-![covid19_country-case](img/covid19_country-case.png)
-![Global-spread_COVID-19](img/Global-spread_COVID-19.png)
+![Top 10 worst hit countries](img/10_worst_hit_countries_11112020.png)
+![Bottom 50 worst hit countries](img/50_least_hit_countries_11112020.png)
+![Covid World Map 11/11/2020](img/covid_world_map_11112020.png)
